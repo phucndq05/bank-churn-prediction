@@ -90,4 +90,4 @@ bank-churn-prediction/
 - **特徴量処理**: カテゴリのエンコード、数値のスケーリング  
 - **評価指標**: Accuracy / Precision / Recall / F1-Score
 
----
+
