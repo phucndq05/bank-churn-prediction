@@ -17,3 +17,5 @@
 - 🇯🇵 **日本語** → 上の日本語バッジをクリック。
 
 ---
+
+<p align="center"><i>Bank Customer Churn Prediction using Machine Learning — with English & Japanese documentation</i></p>
